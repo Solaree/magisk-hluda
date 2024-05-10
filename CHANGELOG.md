@@ -1,1 +1,2 @@
-See [https://frida.re/news/](https://frida.re/news/) for details.
+# 1.0
+- Initial release
