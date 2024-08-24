@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "versionCode": 10,
-  "zipUrl": "https://github.com/Solaree/magisk-hluda/releases/download/1.0/magisk-hluda-1.0.zip",
+  "version": "16.4.10-1",
+  "versionCode": 164101,
+  "zipUrl": "https://github.com/Solaree/magisk-hluda/releases/download/16.4.10-1/magisk-hluda-16.4.10-1.zip",
   "changelog": "https://raw.githubusercontent.com/Solaree/magisk-hluda/master/CHANGELOG.md"
 }
